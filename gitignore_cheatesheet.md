@@ -1,5 +1,6 @@
 # Gitignore Cheatsheet
-| patterns | definations | example
+| patterns  | definations  |  examples |
+|---|---|---|
 | `*.a` | Ignore all .a files | `*.a`|
 | `!lib.a` | But do track lib.a, even though you're ignoring .a files above | `!lib.a`|
 | `/TODO` | Only ignore the TODO file in the current directory, not subdir/TODO | `/TODO`|
